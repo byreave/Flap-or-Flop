@@ -1,3 +1,0 @@
-C:\Users\u1116676\Desktop\FlappyShenanigans\Team4Iterate\Team4Iterate\Source\Team4Iterate\Team4Iterate.Build.cs
-C:\Users\u1116676\Desktop\FlappyShenanigans\Team4Iterate\Team4Iterate\Source\Team4Iterate.Target.cs
-C:\Users\u1116676\Desktop\FlappyShenanigans\Team4Iterate\Team4Iterate\Source\Team4IterateEditor.Target.cs
